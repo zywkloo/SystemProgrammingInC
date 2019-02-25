@@ -1,0 +1,35 @@
+Parking Lot #1 - rate = $5.50, capacity 4, current cars 0.
+Parking Lot #2 - rate = $3.00, capacity 6, current cars 0.
+
+Car ABC 123 enters Lot 1 at 7:15.
+Car ABC 124 enters Lot 1 at 7:25.
+Car ABD 314 enters Lot 2 at 8:00.
+Car ADE 901 enters Lot 2 at 8:10.
+Car AFR 304 enters Lot 1 at 8:15.
+Car AGD 888 enters Lot 1 at 8:20.
+Car AAA 111 arrives at Lot 1 at 8:30, but the lot is full.
+Car AAA 111 cannot get in.
+Car AAA 111 enters Lot 2 at 8:32.
+Car ABB 001 enters Lot 2 at 8:50.
+Car XYZ 678 enters Lot 2 at 8:55.
+
+Parking Lot #1 - rate = $5.50, capacity 4, current cars 4.
+Parking Lot #2 - rate = $3.00, capacity 6, current cars 5.
+
+Car ADE 901 leaves Lot 2 at 9:00 paid $3.00.
+Car ABC 124 leaves Lot 1 at 9:05 paid $11.00.
+Car AGD 888 leaves Lot 1 at 10:00 paid $11.00.
+Car ABC 123 leaves Lot 1 at 10:30 paid $20.00.
+Car ABB 001 leaves Lot 2 at 13:00 paid $12.00.
+Car XYZ 678 leaves Lot 2 at 15:15.
+Car ABB 001 enters Lot 1 at 17:10.
+Car AFR 304 leaves Lot 1 at 17:50 paid $20.00.
+Car AAA 111 leaves Lot 2 at 18:00 paid $12.00.
+Car ABD 314 leaves Lot 2 at 18:15 paid $12.00.
+Car ABB 001 leaves Lot 1 at 20:55 paid $20.00.
+
+Parking Lot #1 - rate = $5.50, capacity 4, current cars 0.
+Parking Lot #2 - rate = $3.00, capacity 6, current cars 0.
+
+Total revenue of Lot 1 is $82.00
+Total revenue of Lot 2 is $39.00

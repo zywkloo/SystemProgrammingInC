@@ -1,0 +1,10 @@
+Yiwei Zhang 101071022
+parkingSimulator.c
+output1.txt
+
+simulator2.c
+output2.txt
+
+
+tip1: please use "gcc parkingSimulator.c -lm" to compile the parkingSimulator.c file, -lm is mandatory.
+tip2: please use "gcc simulator2.c -lm" to compile the simulator2.c file, -lm is mandatory.

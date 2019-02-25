@@ -1,0 +1,170 @@
+Car BDO 643 with permit 1
+Car ITS 357 with permit 0
+Car IDL 985 with permit 1
+Car XEP 371 with permit 1
+Car AQI 034 with permit 1
+Car HRA 647 with permit 1
+Car WWY 595 with permit 0
+Car WKE 404 with permit 0
+Car FIS 116 with permit 0
+Car XOZ 962 with permit 0
+Car KYG 131 with permit 1
+Car KTB 262 with permit 1
+Car LCC 611 with permit 1
+Car UHQ 284 with permit 0
+Car JNC 673 with permit 0
+Car HEP 195 with permit 0
+Car HTP 161 with permit 1
+Car BVH 096 with permit 0
+Car GCU 061 with permit 0
+Car SVB 624 with permit 1
+Car ZUO 039 with permit 0
+Car QLF 924 with permit 0
+Car CCC 631 with permit 1
+Car FWD 743 with permit 0
+Car FPZ 231 with permit 0
+Car YWW 731 with permit 0
+Car IPQ 523 with permit 0
+Car VGH 584 with permit 1
+Car XCQ 180 with permit 0
+Car YAN 767 with permit 1
+Car NKS 035 with permit 1
+Car SGM 937 with permit 0
+Car ICI 746 with permit 1
+Car OKY 985 with permit 1
+Car THV 348 with permit 1
+Car DFS 513 with permit 1
+Car ZFD 567 with permit 0
+Car EZM 776 with permit 1
+Car FRW 063 with permit 0
+Car CMD 504 with permit 0
+Car VMQ 022 with permit 0
+Car UUC 263 with permit 0
+Car GSR 015 with permit 0
+Car IIT 761 with permit 1
+Car DYF 348 with permit 0
+Car DYJ 975 with permit 1
+Car RMR 217 with permit 0
+Car NDN 936 with permit 0
+Car EOL 909 with permit 0
+Car WDC 272 with permit 1
+
+Parking Lot #1 - rate = $4.00, capacity 5, current cars 0.
+Parking Lot #2 - rate = $5.00, capacity 10, current cars 0.
+Parking Lot #3 - rate = $6.00, capacity 15, current cars 0.
+Parking Lot #4 - rate = $7.00, capacity 20, current cars 0.
+Parking Lot #5 - rate = $8.00, capacity 25, current cars 0.
+
+Car BDO 643 enters Lot 2 at 6:00.
+Car ITS 357 enters Lot 5 at 6:05.
+Car IDL 985 enters Lot 1 at 6:10.
+Car XEP 371 enters Lot 3 at 6:15.
+Car AQI 034 enters Lot 4 at 6:20.
+Car HRA 647 enters Lot 2 at 6:25.
+Car WWY 595 enters Lot 2 at 6:30.
+Car WKE 404 enters Lot 2 at 6:35.
+Car FIS 116 enters Lot 5 at 6:40.
+Car XOZ 962 enters Lot 1 at 6:45.
+Car KYG 131 enters Lot 2 at 6:50.
+Car KTB 262 enters Lot 1 at 6:55.
+Car LCC 611 enters Lot 5 at 7:00.
+Car UHQ 284 enters Lot 5 at 7:05.
+Car JNC 673 enters Lot 3 at 7:10.
+Car HEP 195 enters Lot 1 at 7:15.
+Car HTP 161 enters Lot 2 at 7:20.
+Car BVH 096 enters Lot 2 at 7:25.
+Car GCU 061 enters Lot 1 at 7:30.
+Car SVB 624 enters Lot 3 at 7:35.
+Car ZUO 039 enters Lot 5 at 7:40.
+Car QLF 924 enters Lot 4 at 7:45.
+Car CCC 631 enters Lot 5 at 7:50.
+Car FWD 743 enters Lot 3 at 7:55.
+Car FPZ 231 enters Lot 3 at 8:00.
+Car YWW 731 arrives at Lot 1 at 8:05, but the lot is full.
+Car YWW 731 cannot get in.
+Car IPQ 523 enters Lot 2 at 8:10.
+Car VGH 584 enters Lot 3 at 8:15.
+Car XCQ 180 enters Lot 3 at 8:20.
+Car YAN 767 enters Lot 3 at 8:25.
+Car NKS 035 enters Lot 5 at 8:30.
+Car SGM 937 enters Lot 3 at 8:35.
+Car ICI 746 enters Lot 2 at 8:40.
+Car OKY 985 enters Lot 4 at 8:45.
+Car THV 348 enters Lot 2 at 8:50.
+Car DFS 513 enters Lot 5 at 8:55.
+Car ZFD 567 arrives at Lot 1 at 9:00, but the lot is full.
+Car ZFD 567 cannot get in.
+Car EZM 776 enters Lot 3 at 9:05.
+Car FRW 063 enters Lot 3 at 9:10.
+Car CMD 504 enters Lot 3 at 9:15.
+Car VMQ 022 arrives at Lot 1 at 9:20, but the lot is full.
+Car VMQ 022 cannot get in.
+Car UUC 263 arrives at Lot 1 at 9:25, but the lot is full.
+Car UUC 263 cannot get in.
+Car GSR 015 enters Lot 3 at 9:30.
+Car IIT 761 arrives at Lot 2 at 9:35, but the lot is full.
+Car IIT 761 cannot get in.
+Car DYF 348 enters Lot 5 at 9:40.
+Car DYJ 975 arrives at Lot 1 at 9:45, but the lot is full.
+Car DYJ 975 cannot get in.
+Car RMR 217 arrives at Lot 2 at 9:50, but the lot is full.
+Car RMR 217 cannot get in.
+Car NDN 936 enters Lot 3 at 9:55.
+Car EOL 909 arrives at Lot 2 at 10:00, but the lot is full.
+Car EOL 909 cannot get in.
+Car WDC 272 enters Lot 3 at 10:05.
+
+Parking Lot #1 - rate = $4.00, capacity 5, current cars 5.
+Parking Lot #2 - rate = $5.00, capacity 10, current cars 10.
+Parking Lot #3 - rate = $6.00, capacity 15, current cars 15.
+Parking Lot #4 - rate = $7.00, capacity 20, current cars 3.
+Parking Lot #5 - rate = $8.00, capacity 25, current cars 9.
+
+Car BDO 643 leaves Lot 2 at 11:00.
+Car ITS 357 leaves Lot 5 at 11:05 paid $20.00.
+Car IDL 985 leaves Lot 1 at 11:10.
+Car XEP 371 leaves Lot 3 at 11:15.
+Car AQI 034 leaves Lot 4 at 11:20.
+Car HRA 647 leaves Lot 2 at 11:25.
+Car WWY 595 leaves Lot 2 at 11:30 paid $14.00.
+Car WKE 404 leaves Lot 2 at 11:35 paid $14.00.
+Car FIS 116 leaves Lot 5 at 11:40 paid $20.00.
+Car XOZ 962 leaves Lot 1 at 11:45 paid $12.00.
+Car KYG 131 leaves Lot 2 at 11:50.
+Car KTB 262 leaves Lot 1 at 11:55.
+Car LCC 611 leaves Lot 5 at 12:00.
+Car UHQ 284 leaves Lot 5 at 12:05 paid $20.00.
+Car JNC 673 leaves Lot 3 at 12:10 paid $16.00.
+Car HEP 195 leaves Lot 1 at 12:15 paid $12.00.
+Car HTP 161 leaves Lot 2 at 12:20.
+Car BVH 096 leaves Lot 2 at 12:25 paid $14.00.
+Car GCU 061 leaves Lot 1 at 12:30 paid $12.00.
+Car SVB 624 leaves Lot 3 at 12:35.
+Car ZUO 039 leaves Lot 5 at 12:40 paid $20.00.
+Car QLF 924 leaves Lot 4 at 12:45 paid $18.00.
+Car CCC 631 leaves Lot 5 at 12:50.
+Car FWD 743 leaves Lot 3 at 12:55 paid $16.00.
+Car FPZ 231 leaves Lot 3 at 13:00 paid $16.00.
+Car IPQ 523 leaves Lot 2 at 13:10 paid $14.00.
+Car VGH 584 leaves Lot 3 at 13:15.
+Car XCQ 180 leaves Lot 3 at 13:20 paid $16.00.
+Car YAN 767 leaves Lot 3 at 13:25.
+Car NKS 035 leaves Lot 5 at 13:30.
+Car SGM 937 leaves Lot 3 at 13:35 paid $16.00.
+Car ICI 746 leaves Lot 2 at 13:40.
+Car OKY 985 leaves Lot 4 at 13:45.
+Car THV 348 leaves Lot 2 at 13:50.
+Car DFS 513 leaves Lot 5 at 13:55.
+Car EZM 776 leaves Lot 3 at 14:05.
+Car FRW 063 leaves Lot 3 at 14:10 paid $16.00.
+Car CMD 504 leaves Lot 3 at 14:15 paid $16.00.
+Car GSR 015 leaves Lot 3 at 14:30 paid $16.00.
+Car DYF 348 leaves Lot 5 at 14:40 paid $20.00.
+Car NDN 936 leaves Lot 3 at 14:55 paid $16.00.
+Car WDC 272 leaves Lot 3 at 15:05.
+
+Total revenue of Lot 1 is $36.00
+Total revenue of Lot 2 is $56.00
+Total revenue of Lot 3 is $144.00
+Total revenue of Lot 4 is $18.00
+Total revenue of Lot 5 is $100.00
