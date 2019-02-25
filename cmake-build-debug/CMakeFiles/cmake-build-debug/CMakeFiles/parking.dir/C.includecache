@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a41181/Desktop/Yiwei_Study_CS/COMP2401/A3/parkingSimulator.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+
